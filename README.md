@@ -1,6 +1,9 @@
 # ParkEcoTrends Analysis
 
-Environmental data analysis project exploring ecological and park-related trends using Python, pandas, and visualization techniques.
+Archived repository for an environmental data analysis project originally completed during coursework on Codecademy.
+
+The original notebook and datasets were not preserved. This repository remains as part of an ongoing engineering and learning archive documenting past analytical projects and future reconstruction efforts.
+
 
 ## Project Overview
 
